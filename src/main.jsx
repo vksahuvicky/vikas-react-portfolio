@@ -231,7 +231,7 @@ function App() {
       <main>
         <section id="home" className="hero section">
           <div className="hero-cards">
-            <img src="/vikas.jpg" alt="Vikas Kumar" className="profile-photo" />
+            <img src="/vikas-react-portfolio/vikas.jpg" alt="Vikas Kumar" className="profile-photo" />
           </div>
           <div className="hero-copy">
             <p className="eyebrow"><span className="status-dot" /> Available for opportunities</p>
