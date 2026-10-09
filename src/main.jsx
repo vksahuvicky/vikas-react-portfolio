@@ -260,22 +260,21 @@ function App() {
               <div className="window-bar"><i></i><i></i><i></i><span>developer.js</span></div>
               <pre>
                 {`const developer = {
-                  name: "Vikas Kumar",
-                  role: "Senior React Developer",
-                  experience: "7 years",
+  name: "Vikas Kumar",
+  role: "Senior React Developer",
+  experience: "7 years",
 
-                  frontend: [
-                    "React", "JavaScript", "Redux", "Saga"
-                    "WCAG", "Responsive Design"
-                  ],
+  frontend: [
+    "React", "JavaScript", "Redux", "Saga",
+    "Responsive Design", "WCAG Accessibility"
+  ],
 
-                  backend: [
-                    "Node.js", "Express",
-                    "MongoDB", "REST APIs", "Postman"
-                  ],
+  backend: [
+    "Node.js", "Express", "MongoDB", "REST APIs"
+  ],
 
-                  mindset: "Build. Optimize. Improve."
-                };`}
+  mindset: "Build. Optimize. Improve."
+};`}
               </pre>
 
             </div>
