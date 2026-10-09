@@ -454,4 +454,5 @@ function App() {
   );
 }
 
+// Trigger a fresh GitHub Pages redeploy without changing the page design.
 createRoot(document.getElementById("root")).render(<App />);
